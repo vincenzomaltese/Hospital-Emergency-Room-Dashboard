@@ -37,7 +37,8 @@ The Power BI dashboard includes the following sections:
 ![ConsolidatedView](https://github.com/vincenzomaltese/Hospital-Emergency-Room-Dashboard/blob/main/images/consolidated_view.jpg)
 3. **Patient Details**: Individual patient records with key attributes.
 ![PatientDetails](https://github.com/vincenzomaltese/Hospital-Emergency-Room-Dashboard/blob/main/images/patient_details.jpg)
-5. **Key Takeaways**: Summary of the most relevant insights for decision-making.
+4. **Key Takeaways**: Summary of the most relevant insights for decision-making.
+![KeyTakeaways](https://github.com/vincenzomaltese/Hospital-Emergency-Room-Dashboard/blob/main/images/key_takeaways.jpg)
 
 ## 🛠️ Tools & Technologies Used
 - **Power BI**: Data visualization and dashboard creation

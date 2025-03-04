@@ -39,7 +39,7 @@ The Power BI dashboard includes the following sections:
 ## 🛠️ Tools & Technologies Used
 - **Power BI**: Data visualization and dashboard creation
 - **CSV Data Processing**: Importing and analyzing patient records
-- **Microsoft Excel**: Data cleaning and preprocessing
+- **Power Query**: Data cleaning and preprocessing
 - **DAX (Data Analysis Expressions)**: Created custom measures for:
   - **Average wait time**
   - **Bed occupancy rates**
@@ -47,7 +47,9 @@ The Power BI dashboard includes the following sections:
   - **High-risk case identification**
 - **Conditional Formatting**: Implemented visual indicators to highlight critical issues such as **overcrowding and increased wait times**.
 
----
+## ⚠️ How to View the Dashboard
+To fully interact with the Power BI dashboard, you need to have **Power BI Desktop** installed. If you do not have access to Power BI, you can refer to the **exported PDF version** of the dashboard for a static view of the insights.
 
-This project showcases **data-driven decision-making** in hospital management by leveraging Power BI for **effective reporting and visualization**. 🚀
+
+
 

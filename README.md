@@ -1,5 +1,8 @@
 # Hospital Emergency Room Dashboard
 
+[![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 ##  Project Overview
 This project is a **Power BI dashboard** designed to analyze and visualize key metrics related to emergency room (ER) operations in a hospital. The dataset includes patient demographics, wait times, department referrals, admission status, and satisfaction scores. The goal is to identify trends, optimize resource allocation, and improve patient care.
 
